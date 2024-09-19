@@ -1,0 +1,4 @@
+*.exe
+*.ear
+*.jar
+bin/
